@@ -70,7 +70,7 @@ const Page: React.FC = () => {
           <AiOutlineMenu />
         </button>
 
-        <div className="text-white lg:text-3xl font-semibold">Pinecone GPT</div>
+        <div className="text-white lg:text-3xl font-semibold">Nexum Gulp</div>
 
         {/* <a
         className="fixed left-4 top-4 md:right-14 md:top-6 text-xl text-white"
