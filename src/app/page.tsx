@@ -83,7 +83,7 @@ const Page: React.FC = () => {
           <button
             onClick={() => {
               window.open(
-                "https://github.com/engageintellect/pinecone-vercel-starter",
+                "https://github.com/engageintellect/nexum-gulp",
                 "_blank"
               );
             }}
