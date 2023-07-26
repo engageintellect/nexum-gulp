@@ -7,7 +7,7 @@ export default function Header({ className }: { className?: string }) {
     <header
       className={`flex items-center justify-center text-zinc-200 text-2xl ${className}`}
     >
-      <div>Pinecone GPT</div>
+      <div>Nexum Gulp</div>
     </header>
   );
 }
